@@ -123,5 +123,15 @@ section {
         margin-left: 19% !important;
         text-align: center !important;
     }
+
+    section {
+        font-size: 10px;
+        width: 80% !important;
+    }
+
+    .principal_sobre {  
+        margin: 1em !important;
+        width: 118% !important;
+    }
     
 }
