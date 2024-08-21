@@ -106,4 +106,14 @@ a{
         border-radius: 50%;
     }
     
+    .icones-redes, a {
+        margin-left: 80%;
+        margin-right: 20%;
+    }
+
+    h1, h2 {
+        margin-left: 19% !important;
+        text-align: center !important;
+    }
+    
 }
